@@ -1,9 +1,9 @@
 # HP_zhan66_pro_14_g3<br>
 <br>
----
-
+<br>
 The repository provides OpenCore configuration files for HP-zhan-66-pro-14-g3. base from https://github.com/xiaoshimu/hp-zhan-66-pro-15-g3. TKS xiaoshimu<br>
 <br>
+
 **申明：支持正版，本项目仅限于研究技术、学习和测试，测试成功觉得适合自己，请购买苹果公司官方正品产品。**
 
 xiaoshimu是三代战66第一人（公开分享），也许还有大神也已经搞定了，但是没有分享出来，咱不知道，也用不上。<br>
@@ -12,6 +12,7 @@ xiaoshimu是三代战66第一人（公开分享），也许还有大神也已经
 但是目前看来15寸和14寸还是有一些差异，不能直接用，需要单独处理，因此单独开一个项目，整合各路大神的成果，为pro14g3的机友们节省点时间。<br>
 最大差异可能来自于USB部分，使用xiaoshimu的版本无法驱动全部USB端口，蓝牙和USB wifi网卡也无法正常工作，好在移植了一位外国友人的定制驱动，目前基本工作正常。<br>
 <br>
+
 ---
 
 电脑型号：HP ZHAN 66 Pro 14 G3 笔记本电脑<br>
@@ -27,6 +28,7 @@ BIOS：S72 Ver. 01.05.04<br>
 网卡/蓝牙：英特尔 AX201<br>
 网卡：Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter<br>
 <br>
+
 ---
 
 **进展(完成度30%)：**
@@ -44,6 +46,7 @@ USB端口：已定制，来自于国外友人<br>
 摄像头：已支持<br>
 睡眠：xiaoshimu已支持，USB不工作时看起来正常，USB驱动好了之后，休眠就有点不正常了，睡了秒醒，有时候睡死，只能强制关机。待修复<br>
 <br>
+
 ---
 
 **暂时无解：**
