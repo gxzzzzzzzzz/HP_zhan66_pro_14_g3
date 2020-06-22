@@ -9,7 +9,8 @@ The repository provides OpenCore configuration files for HP-zhan-66-pro-14-g3. b
 xiaoshimu是三代战66第一人（公开分享），也许还有大神也已经搞定了，但是没有分享出来，咱不知道，也用不上。<br>
 感谢乐于分享的xiaoshimu，让众多三代战66机友少走弯路。<br>
 <br>
-**本项目暂停更新，原因是15寸和14寸机型硬件一致，可以直接套用。请访问xiaoshimu的项目 https://github.com/xiaoshimu/hp-zhan-66-pro-15-g3,已经比较完善了，而且还在持续更新中**
+**本项目暂停更新，原因是15寸和14寸机型硬件一致，可以直接套用。请访问xiaoshimu的项目 https://github.com/xiaoshimu/hp-zhan-66-pro-15-g3,已经比较完善了，而且还在持续更新中<br>**
+<br>
 ~~本来想偷个懒，做伸手党，有大神搞定三代战66，我们跟着混就行了，自己折腾黑果实在是太耗精力。<br>
 但是目前看来15寸和14寸还是有一些差异，不能直接用，需要单独处理，因此单独开一个项目，整合各路大神的成果，为pro14g3的机友们节省点时间。<br>
 最大差异可能来自于USB部分，使用xiaoshimu的版本无法驱动全部USB端口，蓝牙和USB wifi网卡也无法正常工作，好在移植了一位外国友人的定制驱动，目前基本工作正常。<br>~~
